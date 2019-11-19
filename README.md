@@ -1,4 +1,4 @@
-#### Periwinkle is purple / [FR] déploiement fusion inventory
+#### Periwinkle is purple / [FR] Script de déploiement fusion inventory.
 _____________________________________________________________________________________________________________________
 
 Script de déploiement de fusion inventory. <br/>
