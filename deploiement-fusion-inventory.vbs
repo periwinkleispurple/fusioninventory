@@ -1,4 +1,4 @@
-'  Guide pdf d'accompagnement : 
+'  Guide pdf d'accompagnement : (soon)
 '
 '  Voici les auteurs du script.
 '  ------------------------------------------------------------------------
