@@ -20,7 +20,7 @@ Dim Setup, SetupArchitecture, SetupLocation, SetupOptions, SetupVersion
 
 SetupVersion = "2.5"
 
-' Le commentaire qui suit permet de récupérer directement l'installateur via Internet. Pour activer cela, il suffit
+' Le commentaire SetupLocation qui suit permet de récupérer directement l'installateur via Internet. Pour activer cela, il suffit
 ' simplement supprimer l'apostrophe devant la ligne "SetupLocation" avec l'url Internet et en mettre une devant la
 ' ligne avec l'url partagé ou supprimer la ligne.
 
